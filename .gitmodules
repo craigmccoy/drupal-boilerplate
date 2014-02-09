@@ -16,3 +16,6 @@
 [submodule "sites/all/modules/backup_migrate"]
 	path = sites/all/modules/backup_migrate
 	url = http://git.drupal.org/project/backup_migrate.git
+[submodule "sites/all/modules/token"]
+	path = sites/all/modules/token
+	url = http://git.drupal.org/project/token.git
