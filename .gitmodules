@@ -7,3 +7,6 @@
 [submodule "sites/all/modules/google_analytics"]
 	path = sites/all/modules/google_analytics
 	url = http://git.drupal.org/project/google_analytics.git
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = http://git.drupal.org/project/views.git
