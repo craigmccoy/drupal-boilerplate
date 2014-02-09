@@ -28,3 +28,6 @@
 [submodule "sites/all/modules/xmlsitemap"]
 	path = sites/all/modules/xmlsitemap
 	url = http://git.drupal.org/project/xmlsitemap.git
+[submodule "sites/all/modules/mollom"]
+	path = sites/all/modules/mollom
+	url = http://git.drupal.org/project/mollom.git
