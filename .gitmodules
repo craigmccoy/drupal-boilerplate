@@ -25,3 +25,6 @@
 [submodule "sites/all/modules/pathauto"]
 	path = sites/all/modules/pathauto
 	url = http://git.drupal.org/project/pathauto.git
+[submodule "sites/all/modules/xmlsitemap"]
+	path = sites/all/modules/xmlsitemap
+	url = http://git.drupal.org/project/xmlsitemap.git
