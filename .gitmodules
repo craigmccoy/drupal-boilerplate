@@ -19,3 +19,6 @@
 [submodule "sites/all/modules/token"]
 	path = sites/all/modules/token
 	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/metatag"]
+	path = sites/all/modules/metatag
+	url = http://git.drupal.org/project/metatag.git
