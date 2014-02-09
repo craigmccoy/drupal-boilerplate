@@ -31,3 +31,6 @@
 [submodule "sites/all/modules/mollom"]
 	path = sites/all/modules/mollom
 	url = http://git.drupal.org/project/mollom.git
+[submodule "sites/all/modules/context"]
+	path = sites/all/modules/context
+	url = http://git.drupal.org/project/context.git
