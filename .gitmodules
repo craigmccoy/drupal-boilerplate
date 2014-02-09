@@ -4,3 +4,6 @@
 [submodule "sites/all/themes/bootstrap"]
 	path = sites/all/themes/bootstrap
 	url = http://git.drupal.org/project/bootstrap.git
+[submodule "sites/all/modules/google_analytics"]
+	path = sites/all/modules/google_analytics
+	url = http://git.drupal.org/project/google_analytics.git
