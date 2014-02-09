@@ -7,6 +7,12 @@
 [submodule "sites/all/modules/google_analytics"]
 	path = sites/all/modules/google_analytics
 	url = http://git.drupal.org/project/google_analytics.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = http://git.drupal.org/project/ctools.git
 [submodule "sites/all/modules/views"]
 	path = sites/all/modules/views
 	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/backup_migrate"]
+	path = sites/all/modules/backup_migrate
+	url = http://git.drupal.org/project/backup_migrate.git
